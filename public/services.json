@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Engine Designation",
+        "price": "300",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "img": "https://i.ibb.co/37c4Wf8/Artificial-lighting-Employee-in-the-blue-colored-uniform-works-in-the-automobile-salon.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Repair Engine",
+        "price": "2100",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "img": "https://i.ibb.co/3Wnf0dx/Auto-mechanic-working-in-garage-Repair-service.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Engine Oile",
+        "price": "1300",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "img": "https://i.ibb.co/M1Yf3ff/Car-mechanic-changing-wheels-in-car.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Wheel Alignment",
+        "price": "1300",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "img": "https://i.ibb.co/qrvNw3g/Wrker-in-a-car-salon-Expert-checks-the-car-Man-in-a-blue-uniform.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Engine Designation",
+        "price": "240",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "img": "https://i.ibb.co/4WfzHWp/Mechanic-hand-checking-and-fixing-a-broken-car-in-car-service-garage.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Engine Designation",
+        "price": "850",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "img": "https://i.ibb.co/1sJBYjW/Mechanic-with-a-tool-Wheel-in-hands-of-a-mechanic-Blue-work-clothes.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Engine Designation",
+        "price": "300",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "img": "https://i.ibb.co/nzS3yhV/Picture-showing-muscular-car-service-worker-repairing-vehicle.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Break Fixing",
+        "price": "799",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "img": "https://i.ibb.co/Yyys1Qc/Picture-showing-muscular-car-service-worker-repairing-vehicle.jpg"
+    }
+]
